@@ -67,9 +67,9 @@ const img = new Image();
 
 // User Variables - customize these to change the image being scrolled, its
 // direction, and the speed.
-img.src = "panoramica.jpg";
-const canvasXSize = 800;
-const canvasYSize = 200;
+img.src = "panoramica3.jpg";
+const canvasXSize = 1000;
+const canvasYSize = 400;
 const speed = 30; // lower is faster
 const scale = 1.05;
 const y = -4.5; // vertical offset
